@@ -238,10 +238,12 @@ Output:
 
 **Lalit Patil**  
 Cloud & DevOps Enthusiast  
-
-[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/<your-github-username>)
-[![Docker Hub](https://img.shields.io/badge/DockerHub-blue?logo=docker)](https://hub.docker.com/u/lalit25)
+Docker Hub: https://hub.docker.com/u/lalit25  
+GitHub: https://github.com/DevopsbyLalit
 
 ---
+
+
+
 
 
