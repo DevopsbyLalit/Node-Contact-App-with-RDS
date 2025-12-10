@@ -86,25 +86,23 @@ You can run this project in **three different ways**:
 ### Clone Repository
 
 ```bash
-git clone [<your_repo_url>](https://github.com/DevopsbyLalit/Node-Contact-App-with-RDS.git)
+1 => git clone https://github.com/DevopsbyLalit/Node-Contact-App-with-RDS.git
 cd contact-app
-```
-```
-Install Dependencies
+
+
+2 => Install Dependencies
 npm install
-```
-```
-Set Environment Variables
+
+
+3 => Set Environment Variables
 export DB_HOST="your-rds-endpoint"
 export DB_USER="admin"
 export DB_PASSWORD="yourpassword"
-```
-```
-Start App
+
+4 => Start App
 node server.js
-```
-```
-Open:
+
+5 => Open:
 
 http://localhost:3000
 ```
@@ -224,6 +222,26 @@ Output:
 |  2 | admin        |
 |  3 | test         |
 +----+--------------+
+```
 
+<img width="736" height="573" alt="Screenshot 2025-12-10 162832" src="https://github.com/user-attachments/assets/0dc180d2-40d8-4e31-8e2e-811951988ef2" />
+
+```
+```
+<img width="1874" height="916" alt="Screenshot 2025-12-10 165418" src="https://github.com/user-attachments/assets/aa638a2e-e20c-4873-a8aa-9b1a1bc5103f" />
+
+```
+
+---
+
+## 👨‍💻 Author
+
+**Lalit Patil**  
+Cloud & DevOps Enthusiast  
+
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/<your-github-username>)
+[![Docker Hub](https://img.shields.io/badge/DockerHub-blue?logo=docker)](https://hub.docker.com/u/lalit25)
+
+---
 
 
