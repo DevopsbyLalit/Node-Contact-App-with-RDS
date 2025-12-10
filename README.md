@@ -223,16 +223,22 @@ Output:
 |  3 | test         |
 +----+--------------+
 ```
+```
+out-put
+
+```
 
 <img width="736" height="573" alt="Screenshot 2025-12-10 162832" src="https://github.com/user-attachments/assets/0dc180d2-40d8-4e31-8e2e-811951988ef2" />
 
 ```
+
+
 ```
 <img width="1874" height="916" alt="Screenshot 2025-12-10 165418" src="https://github.com/user-attachments/assets/aa638a2e-e20c-4873-a8aa-9b1a1bc5103f" />
 
 ```
 
----
+```
 
 ## 👨‍💻 Author
 
@@ -241,7 +247,7 @@ Cloud & DevOps Enthusiast
 Docker Hub: https://hub.docker.com/u/lalit25  
 GitHub: https://github.com/DevopsbyLalit
 
----
+```
 
 
 
